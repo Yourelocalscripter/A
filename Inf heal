@@ -1,0 +1,44 @@
+local args = {
+    [1] = true,
+    [2] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+    [3] = 1/0,
+    [4] = CFrame.new(273.3703918457031, 29.873645782470703, -686.968994140625, 0.7582290172576904, -0.48677605390548706, 0.43374842405319214, -0.007415279746055603, -0.6716657280921936, -0.7408171892166138, 0.6519460678100586, 0.5584927797317505, -0.512886106967926),
+    [7] = 1,
+    [8] = "rbxassetid://1202656211",
+    [9] = 2.25
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Attacks"):WaitForChild("Heal"):WaitForChild("OverHeavenHeal"):FireServer(unpack(args))
+local args = {
+    [1] = true,
+    [2] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+    [3] = 1/0,
+    [4] = CFrame.new(273.3703918457031, 29.873645782470703, -686.968994140625, 0.7582290172576904, -0.48677605390548706, 0.43374842405319214, -0.007415279746055603, -0.6716657280921936, -0.7408171892166138, 0.6519460678100586, 0.5584927797317505, -0.512886106967926),
+    [7] = 1,
+    [8] = "rbxassetid://1202656211",
+    [9] = 2.25
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Attacks"):WaitForChild("Heal"):WaitForChild("OverHeavenHeal"):FireServer(unpack(args))
+local args = {
+    [1] = true,
+    [2] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+    [3] = 1/0,
+    [4] = CFrame.new(273.3703918457031, 29.873645782470703, -686.968994140625, 0.7582290172576904, -0.48677605390548706, 0.43374842405319214, -0.007415279746055603, -0.6716657280921936, -0.7408171892166138, 0.6519460678100586, 0.5584927797317505, -0.512886106967926),
+    [7] = 1,
+    [8] = "rbxassetid://1202656211",
+    [9] = 2.25
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Attacks"):WaitForChild("Heal"):WaitForChild("OverHeavenHeal"):FireServer(unpack(args))
+local args = {
+    [1] = true,
+    [2] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+    [3] = 1/0,
+    [4] = CFrame.new(273.3703918457031, 29.873645782470703, -686.968994140625, 0.7582290172576904, -0.48677605390548706, 0.43374842405319214, -0.007415279746055603, -0.6716657280921936, -0.7408171892166138, 0.6519460678100586, 0.5584927797317505, -0.512886106967926),
+    [7] = 1,
+    [8] = "rbxassetid://1202656211",
+    [9] = 2.25
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Attacks"):WaitForChild("Heal"):WaitForChild("OverHeavenHeal"):FireServer(unpack(args))
